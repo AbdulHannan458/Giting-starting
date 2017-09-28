@@ -1,0 +1,2 @@
+This is the second file
+I've edited it and will commit changes again
